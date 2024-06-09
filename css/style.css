@@ -323,8 +323,8 @@ body {
 
 .class-news-text-box {
     background-color: #fffbe0;
-    margin: 42px 35px;
-    padding: 20px 43px;
+    margin: 53px 40px;
+    padding: 20px 38px;
     border: 2px solid black;
     height: 400px;
     font-weight: 400;
@@ -347,6 +347,21 @@ body {
 .class-calender-section {
     background-color: #fffbe0;
     padding: 40px;
+}
+
+.class-calender-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.class-calender-main p {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.class-cal-title {
+    margin-left: 47px;
 }
 
 .days {
